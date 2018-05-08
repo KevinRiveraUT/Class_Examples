@@ -42,3 +42,7 @@ Thumbs.db
 AngularDemo/node_modules
 AngularDemo/AngularHeroDemo/node_modules
 AngularDemo/AngularHeroDemo/.gitignore
+/.metadata/
+.recommenders
+Servers
+*/target

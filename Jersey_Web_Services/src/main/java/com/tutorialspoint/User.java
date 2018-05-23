@@ -10,6 +10,7 @@ public class User implements Serializable {
    private int id; 
    private String name; 
    private String profession;  
+   
    public User(){} 
     
    public User(int id, String name, String profession){  
@@ -39,3 +40,8 @@ public class User implements Serializable {
       this.profession = profession; 
    }   
 } 
+
+
+
+
+
